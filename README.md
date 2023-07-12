@@ -1,8 +1,8 @@
 # Hi there, I'm Johan! 
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=OctoPol7&show_icons=true&theme=aura_dark" />
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=OctoPol7&show_icons=true&theme=aura_dark" />
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPol7&layout=compact" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctoPol7&layout=compact" />
 
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
